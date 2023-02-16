@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+    padding: 0 30px;
+}
+section h1{
+    background-color: blue;
+    color: white;
+    margin-bottom: 20px;
+    text-align: center;
+}
+section p{
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+section h2{
+    text-align: center;
+    background-color: aqua;
+    margin-bottom: 20px;
+}
